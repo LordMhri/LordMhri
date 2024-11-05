@@ -10,7 +10,6 @@
 
 -📫 How to reach me meheret.alemu-ug@aau.edu.et
 
-A Joke: How many neurons does it take to change a lightbulb? Just one, but it might take a few epochs to learn how.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
