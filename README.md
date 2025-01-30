@@ -4,9 +4,9 @@
 
 -💻 Passionate about combining my knowledge in Data Structures and Algorithms with Machine Learning to build efficient and creative solutions
 
--🌱 I’m currently learning **Machine Learning,C and SpringBoot**
+-🌱 I’m currently learning **Machine Learning**
 
--💬 Ask me about **C,C++ and NeuralNetworks**
+-💬 Ask me about **C++ and NeuralNetworks**
 
 -📫 How to reach me meheret.alemu-ug@aau.edu.et
 
