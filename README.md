@@ -55,16 +55,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
-
-### 📊 GitHub Stats:
-<div>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordmhri&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lordmhri&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordmhri&theme=algolia" alt="GitHub Streak" />
-</p>
-</div>
