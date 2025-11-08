@@ -5,7 +5,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 
-Hi! I’m a 3rd year Computer Science student with a strong passion for systems programming, backend development, and AI. I enjoy building things from the ground up.
+Hi! I’m a 4th year Computer Science student with a strong passion for systems programming, backend development, and AI. I enjoy building things from the ground up.
 
 I’m currently focused on learning machine learning fundamentals and applying them through hands-on projects. 
 I care deeply about writing clean, modular code and fully understanding the systems I work on. I’m especially interested in opportunities that challenge me to grow in low-level programming and AI engineering.
